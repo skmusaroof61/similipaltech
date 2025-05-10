@@ -6,7 +6,7 @@
 
 ## 📸 Preview
 
-![SimilipalTech Screenshot](./public/screenshot.png) <!-- Replace with your actual image path -->
+![SimilipalTech Screenshot](./img/s1.png) <!-- Replace with your actual image path -->
 
 ---
 
