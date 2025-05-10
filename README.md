@@ -30,7 +30,7 @@
 
 ---
 
-## 📂 Project Structure
+## 📁 Project Structure
 
 src/
 ├── components/
@@ -40,9 +40,6 @@ src/
 │ └── Home.tsx # Main page content
 ├── App.tsx # Root app with layout and smooth scrolling
 └── main.tsx # Entry point
-
-
----
 
 ## 📦 Getting Started
 
